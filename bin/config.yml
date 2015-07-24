@@ -1,0 +1,18 @@
+# Siioh's CustomWeapons configuration file
+
+# How to use:
+
+# This set of configs allows you to set the required name for any certain weapon,
+# if you didn't already like the default.
+
+# As long as any person has the item with the name - they can use the corresponding
+# ability.
+
+Fire Rod: Fire Rod
+Throwing TNT: Throwing TNT
+Sniper Bow: Sniper Bow
+Machine Bow: Machine Bow
+Wither Bow: Wither Bow
+Ender Bow: Ender Bow
+TNT Bow: TNT Bow
+Shot Bow: Shotbow
